@@ -22,3 +22,17 @@ Utilizado para gerenciamento de rotas.
 
 ### Provider
 Utilizado como gerenciado de estado nativo.
+
+Após adicionar os packages, navegar até:
+
+`android/app/src/main/java/com/thedevjeff/biometric_app/MainActivity.java`
+
+e alterar o conteúdo para:
+
+```
+import io.flutter.embedding.android.FlutterFragmentActivity;
+public class MainActivity extends FlutterFragmentActivity {
+}
+```
+
+Dai podemos seguir para os passos descritos nas instruções do pacote.
