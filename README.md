@@ -12,3 +12,13 @@ package local_auth.
 - Local_Auth [https://pub.dev/packages/local_auth]
 - GoRouter [https://pub.dev/packages/go_router]
 - Provider [https://pub.dev/packages/provider]
+
+
+### Local_Auth
+Utilizado para gerenciar, solicitar e retornar o status da biometria no dispositivo.
+
+### GoRouter
+Utilizado para gerenciamento de rotas.
+
+### Provider
+Utilizado como gerenciado de estado nativo.
